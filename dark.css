@@ -1,0 +1,110 @@
+body:has(.dark input:checked) span{
+   color: goldenrod; 
+}
+body:has(.dark input:checked){
+    background-color: #252525;
+}
+body:has(.dark input:checked) button{
+    background: goldenrod;
+}
+
+body:has(.dark input:checked) .link ul{
+    color: #9f9f9f;
+}
+
+body:has(.dark input:checked) .icon i{
+    
+    color: black;
+}
+body:has(.dark input:checked) .contact-item .icon{
+    background-color:goldenrod ;
+}
+body:has(.dark input:checked) .footer-con i{
+    color: goldenrod;
+}
+body:has(.dark input:checked) .style p{
+    color: white;
+}
+body:has(.dark input:checked) .logo{
+    color: white;
+}
+body:has(.dark input:checked) #home{
+    background-color: #2e2c2ce0;
+}
+body:has(.dark input:checked) .hader-con  h2 {
+    color: white;
+}
+body:has(.dark input:checked) .hader-con .but{
+    background-color: goldenrod;
+}
+body:has(.dark input:checked) .hader-con .but:hover{
+    background-color: darkgoldenrod;
+}
+body:has(.dark input:checked) .footer .sup-box button:hover{
+    background-color: darkgoldenrod;
+}
+body:has(.dark input:checked) .hader-icon{
+    background-image: goldenrod;
+}
+body:has(.dark input:checked) .con-img{
+    color: white;
+}
+body:has(.dark input:checked) .con-img span{
+    color: white;
+}
+body:has(.dark input:checked) #gallary{
+    background-color: #2e2c2ce0 ;
+}
+body:has(.dark input:checked) .style h3{
+    color:#9f9f9f ;
+}
+body:has(.dark input:checked) .nav .contaner ul li:hover{
+    color: white;
+}
+body:has(.dark input:checked) .hader-icon i {
+    color: white;
+}
+body:has(.dark input:checked) .hader-icon::after{
+    background-color: #252525;
+}
+
+body:has(.dark input:checked) .video:hover{
+ color:goldenrod;
+}
+body:has(.dark input:checked) .hader-icon {
+    background-image: linear-gradient(to right,#ff8100 0 50% , transparent 50% 100%);
+}
+body:has(.dark input:checked) .hader-con p {
+color: #9f9f9f ;
+}
+body:has(.dark input:checked) .hader-icon {
+    color: #9f9f9f ;
+}
+body:has(.dark input:checked) .contact-con input:focus{
+    border-color: darkgoldenrod;
+}
+body:has(.dark input:checked) .contact-con textarea:focus{
+    border-color: darkgoldenrod;
+}
+body:has(.dark input:checked) .nav .link ul li a::before{
+    background-color: darkgoldenrod;
+}
+body:has(.dark input:checked) .dark .light{
+    display: block;
+    color: white;
+}
+body:has(.dark input:checked) .dark i{
+    display: none;
+}
+body:has(.dark input:checked)  .video{
+    color: white;
+}
+body:has(.dark input:checked) .con-img p{
+    color: #9f9f9f;
+}
+body:has(.dark input:checked)  .photo-sh picture::before{
+    background-image: url(img/img/team-shape-dark.svg);
+}
+body:has(.dark input:checked) .logo::after{
+    color: goldenrod;
+}

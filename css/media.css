@@ -1,0 +1,13 @@
+@media only screen and (max-width: 1200px){
+    .contaner{
+        min-height: 100vh;
+    }
+}
+@media only screen and (max-width: 992px){
+.contaner{
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aqua;
+}
+}
